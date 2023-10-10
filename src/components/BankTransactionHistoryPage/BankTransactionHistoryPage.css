@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  color: #000;
+  margin: auto 20px;
+}
+
+.select-container {
+  position: relative;
+  margin: 10px 0;
+}
+
+label {
+  font-size: 16px;
+  color: #333;
+  margin-right: 15px;
+}
+
+select, input {
+  width: 40%;
+  padding: 5px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  font-size: 16px;
+  color: #333;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+select:hover,
+select:focus,
+input:hover,
+input:focus {
+  border-color: #f1dcff;
+}
+
