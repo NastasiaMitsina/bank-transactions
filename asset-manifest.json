@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bank-transactions/static/css/main.053e76d8.css",
+    "main.js": "/bank-transactions/static/js/main.b8d13f90.js",
+    "index.html": "/bank-transactions/index.html",
+    "main.053e76d8.css.map": "/bank-transactions/static/css/main.053e76d8.css.map",
+    "main.b8d13f90.js.map": "/bank-transactions/static/js/main.b8d13f90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053e76d8.css",
+    "static/js/main.b8d13f90.js"
+  ]
+}
